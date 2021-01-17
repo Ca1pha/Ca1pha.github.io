@@ -87,7 +87,7 @@
   content: "";
   height: 100%;
   width: 2px;
-  background: rgba(255,78,106,0.2);
+  background: rgba(0,190,240,0.2);
   position: absolute;
   left: 6px;
   top: 20px;
@@ -290,13 +290,13 @@ article h2:after {
   transition: all 0.35s ease-out;
   content: "";
   position: absolute;
-  background: #0062e1;
+  background: #00bef0;
   width: 1em;
   height: 5px;
   bottom: -3px;
   left: 0;
   border-radius: 10px;
-  box-shadow: 0 2px 12px rgba(255,78,106,0.85);
+  box-shadow: 0 2px 12px rgba(0,190,240,0.85);
 }
 article h2:hover:after {
   width: 2em;
@@ -795,14 +795,14 @@ body {
   border-bottom: none;
 }
 #nexmoe-header .nexmoe-widget-wrap .nexmoe-widget .category-list-count {
-  background-color: rgba(255,78,106,0.1);
+  background-color: rgba(0,190,240,0.1);
   display: inline-block;
   width: 26px;
   height: 26px;
   line-height: 26px;
   text-align: center;
   border-radius: 100%;
-  color: #0062e1;
+  color: #00bef0;
   position: absolute;
   right: 10px;
   top: 10px;
@@ -832,7 +832,7 @@ body {
   margin-bottom: 20px;
 }
 #nexmoe-header .nexmoe-copyright a {
-  color: #0062e1;
+  color: #ff4e6a;
 }
 @media screen and (max-width: 1024px) {
   #nexmoe-header {
@@ -989,7 +989,7 @@ body {
   position: relative;
 }
 #nexmoe-content .nexmoe-post .nexmoe-post-copyright a {
-  color: #0062e1;
+  color: #ff4e6a;
 }
 #nexmoe-content .nexmoe-post-footer {
   background-color: #f5f6f5;
@@ -1132,7 +1132,7 @@ photos img {
 }
 .nexmoe-rainbow a:nth-child(7n+1) {
   background-color: rgba(255,78,106,0.15);
-  color: #0062e1;
+  color: #ff4e6a;
 }
 .nexmoe-rainbow a:nth-child(7n+2) {
   background-color: rgba(255,118,30,0.15);

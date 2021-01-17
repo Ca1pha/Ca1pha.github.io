@@ -1104,7 +1104,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
   -webkit-box-shadow: none;
           box-shadow: none;
 }
-/* 数字列，右对齐 */
+/* 数자列，右对齐 */
 .mdui-table-col-numeric {
   text-align: right !important;
 }
@@ -1571,7 +1571,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-textfield-disabled .mdui-textfield-input {
   border-bottom: 1px dashed rgba(0, 0, 0, .42);
 }
-/* 字数统计
+/* 자数统计
    ====== */
 .mdui-textfield-counter {
   position: absolute;

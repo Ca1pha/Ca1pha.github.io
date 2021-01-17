@@ -72,7 +72,7 @@
   content: "";
   width: 14px;
   height: 14px;
-  background: 0062e1;
+  background: #0062e1;
   display: inline-block;
   vertical-align: middle;
   margin-top: -2px;
@@ -172,13 +172,13 @@ article pre code::after {
 article a {
   -webkit-transition: all 0.35s ease-out;
   transition: all 0.35s ease-out;
-  color: 0062e1;
+  color: #0062e1;
   text-decoration: none;
   word-wrap: break-word;
 }
 article a:hover,
 article a:focus {
-  color: 0062e1;
+  color: #0062e1;
 }
 article a:hover {
   text-decoration: underline;
@@ -266,7 +266,7 @@ article h6:before {
   display: inline-block;
   width: 1em;
   content: '#';
-  color: 0062e1;
+  color: #0062e1;
 }
 article h1 {
   font-size: 2.5em;
@@ -290,7 +290,7 @@ article h2:after {
   transition: all 0.35s ease-out;
   content: "";
   position: absolute;
-  background: 0062e1;
+  background: #0062e1;
   width: 1em;
   height: 5px;
   bottom: -3px;
@@ -394,7 +394,7 @@ article > ol > li::before {
   border-radius: 8px;
   line-height: 1.6rem;
   background-color: rgba(255,78,106,0.1);
-  color: 0062e1;
+  color: #0062e1;
 }
 article li {
   line-height: 2rem;
@@ -802,7 +802,7 @@ body {
   line-height: 26px;
   text-align: center;
   border-radius: 100%;
-  color: 0062e1;
+  color: #0062e1;
   position: absolute;
   right: 10px;
   top: 10px;
@@ -832,7 +832,7 @@ body {
   margin-bottom: 20px;
 }
 #nexmoe-header .nexmoe-copyright a {
-  color: 0062e1;
+  color: #0062e1;
 }
 @media screen and (max-width: 1024px) {
   #nexmoe-header {
@@ -989,7 +989,7 @@ body {
   position: relative;
 }
 #nexmoe-content .nexmoe-post .nexmoe-post-copyright a {
-  color: 0062e1;
+  color: #0062e1;
 }
 #nexmoe-content .nexmoe-post-footer {
   background-color: #f5f6f5;
@@ -1132,7 +1132,7 @@ photos img {
 }
 .nexmoe-rainbow a:nth-child(7n+1) {
   background-color: rgba(255,78,106,0.15);
-  color: 0062e1;
+  color: #0062e1;
 }
 .nexmoe-rainbow a:nth-child(7n+2) {
   background-color: rgba(255,118,30,0.15);
